@@ -1,1 +1,1 @@
-# Spam-SMS-Filter
+# Spam-SMS-Filter using Naive Bayes Classification Algorithm
